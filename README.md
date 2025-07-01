@@ -30,8 +30,8 @@ mytorch-mlp/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/h-abid97/rag-chatbot.git
-cd rag-chatbot
+git clone https://github.com/h-abid97/mytorch-mlp.git
+cd mytorch-mlp
 ```
 
 ### 2. Install dependencies
