@@ -49,4 +49,3 @@ python autograder.py
 ## 📌 Notes
 - This project is educational and inspired by PyTorch-style architecture.
 - No external deep learning frameworks were used.
-- BatchNorm and backpropagation were implemented from scratch.
